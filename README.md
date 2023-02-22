@@ -1,6 +1,7 @@
-# Primera Entrega Proyecto Comercio Electrónico con React
+# Segunda Entrega Proyecto Comercio Electrónico con React
 
 Para iniciarlo debe ejecutar:
+
 ### `npm start`
 
 Y luego ejecutar la apliación desde:
